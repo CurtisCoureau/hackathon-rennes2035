@@ -139,7 +139,19 @@ footer img   {
   font-size: 130px;
   margin: 0;
   font-family: "Alinea";
-letter-spacing : 0.1em;
+letter-spacing : 0.15em;
+text-shadow:   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000,
+     1px 1px 2px #141414,
+     1px 1px 3px #141414,
+     1px 1px 5px #141414,
+     1px 1px 7px #141414,
+     1px 1px 10px #141414,
+     1px 1px 12px #141414,
+     1px 1px 18px #141414;color:#fff;
+color:#fff;
 }
 .hero-content p    {
   font-size: 50px;
@@ -201,6 +213,7 @@ border:1px solid #aaa;
   font-family: "Alinea";
   font-style: italic;
 letter-spacing : 0.1em;
+
 }
 
 /* feature boxes */
